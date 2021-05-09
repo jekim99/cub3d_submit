@@ -1,0 +1,21 @@
+R 1000 800
+NO ../texture/north.xpm
+SO ../texture/south.xpm
+
+C		204,  00000000237,255
+WE ../texture/west.xpm
+EA ../texture/east.xpm
+
+S 				../texture/kk.xpm
+F 209,202,163
+
+
+
+
+
+1111111111
+1002222001
+1002E20001
+1002220001
+1000000001
+1111111111
